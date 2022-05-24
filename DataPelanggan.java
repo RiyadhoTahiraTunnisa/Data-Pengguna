@@ -15,7 +15,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author LENOVO
+ * @author Riyadho Tahira Tunnisa
  */
 public class DataPelanggan extends javax.swing.JFrame {
  Connection konek;
